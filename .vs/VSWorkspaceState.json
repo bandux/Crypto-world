@@ -2,7 +2,6 @@
   "ExpandedNodes": [
     "",
     "\\Contracts",
-    "\\Contracts\\obj\\Release",
     "\\PositionsService",
     "\\PositionsService\\Contracts",
     "\\PositionsService\\Domain",
@@ -11,6 +10,6 @@
     "\\RatesService\\Properties",
     "\\RatesService\\Services"
   ],
-  "SelectedNode": "\\RatesService\\Data",
+  "SelectedNode": "\\Contracts\\Contracts.csproj",
   "PreviewInSolutionExplorer": false
 }

@@ -3,52 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\wakett\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Consumers\\RateChangedEventConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Consumers\\RateChangedEventConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Consumers\\RateChangedEventConsumer.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\Consumers\\RateChangedEventConsumer.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\RateService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Services\\RateService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Contracts\\RateChangeEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Contracts\\RateChangeEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Contracts\\IRateChangeEvent.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Contracts\\IRateChangeEvent.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\MessageBus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Services\\MessageBus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\CoinMarketCapClient.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Services\\CoinMarketCapClient.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Data\\RatesDbContext.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Data\\RatesDbContext.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\RateService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Services\\RateService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\CoinMarketCapClient.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Services\\CoinMarketCapClient.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Models\\Rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Models\\Rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\RatesService\\Data\\RatesDbContext.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RatesService\\Data\\RatesDbContext.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\PositionsService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\PositionsService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Persistence\\PositionsDbContext.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\Persistence\\PositionsDbContext.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Domain\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\Domain\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Contracts\\ReCalculatedPositionEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\Contracts\\ReCalculatedPositionEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Contracts\\AddnewPosistionEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\Contracts\\AddnewPosistionEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Consumers\\AddNewPositionConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\Consumers\\AddNewPositionConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Consumers\\RateChangedEventConsumer.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PositionsService\\Consumers\\RateChangedEventConsumer.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\Contracts\\RateChangedEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contracts\\RateChangedEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\wakett\\Contracts\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contracts\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,154 +86,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Program.cs",
-              "RelativeDocumentMoniker": "PositionsService\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Program.cs",
-              "RelativeToolTip": "PositionsService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:57:58.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RateChangedEventConsumer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Consumers\\RateChangedEventConsumer.cs",
-              "RelativeDocumentMoniker": "PositionsService\\Consumers\\RateChangedEventConsumer.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Consumers\\RateChangedEventConsumer.cs",
-              "RelativeToolTip": "PositionsService\\Consumers\\RateChangedEventConsumer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:56:37.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RateChangedEventConsumer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Consumers\\RateChangedEventConsumer.cs",
-              "RelativeDocumentMoniker": "RatesService\\Consumers\\RateChangedEventConsumer.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Consumers\\RateChangedEventConsumer.cs",
-              "RelativeToolTip": "RatesService\\Consumers\\RateChangedEventConsumer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T12:42:57.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RateChangeEvent.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Contracts\\RateChangeEvent.cs",
-              "RelativeDocumentMoniker": "RatesService\\Contracts\\RateChangeEvent.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Contracts\\RateChangeEvent.cs",
-              "RelativeToolTip": "RatesService\\Contracts\\RateChangeEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:38:08.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRateChangeEvent.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Contracts\\IRateChangeEvent.cs",
-              "RelativeDocumentMoniker": "RatesService\\Contracts\\IRateChangeEvent.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Contracts\\IRateChangeEvent.cs",
-              "RelativeToolTip": "RatesService\\Contracts\\IRateChangeEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:32:59.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Program.cs",
-              "RelativeDocumentMoniker": "RatesService\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Program.cs",
-              "RelativeToolTip": "RatesService\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:29:41.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\appsettings.json",
-              "RelativeDocumentMoniker": "RatesService\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\appsettings.json",
-              "RelativeToolTip": "RatesService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-10T01:30:02.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RateService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\RateService.cs",
-              "RelativeDocumentMoniker": "RatesService\\Services\\RateService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\RateService.cs",
-              "RelativeToolTip": "RatesService\\Services\\RateService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwD4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:28:57.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MessageBus.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\MessageBus.cs",
-              "RelativeDocumentMoniker": "RatesService\\Services\\MessageBus.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\MessageBus.cs",
-              "RelativeToolTip": "RatesService\\Services\\MessageBus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:28:17.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CoinMarketCapClient.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\CoinMarketCapClient.cs",
-              "RelativeDocumentMoniker": "RatesService\\Services\\CoinMarketCapClient.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\CoinMarketCapClient.cs",
-              "RelativeToolTip": "RatesService\\Services\\CoinMarketCapClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:27:18.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RatesDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Data\\RatesDbContext.cs",
-              "RelativeDocumentMoniker": "RatesService\\Data\\RatesDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Data\\RatesDbContext.cs",
-              "RelativeToolTip": "RatesService\\Data\\RatesDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:25:28.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Rate.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Models\\Rate.cs",
               "RelativeDocumentMoniker": "RatesService\\Models\\Rate.cs",
@@ -214,6 +99,240 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T01:24:00.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoinMarketCapClient.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\CoinMarketCapClient.cs",
+              "RelativeDocumentMoniker": "RatesService\\Services\\CoinMarketCapClient.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\CoinMarketCapClient.cs",
+              "RelativeToolTip": "RatesService\\Services\\CoinMarketCapClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:27:18.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RateService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\RateService.cs",
+              "RelativeDocumentMoniker": "RatesService\\Services\\RateService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Services\\RateService.cs",
+              "RelativeToolTip": "RatesService\\Services\\RateService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:28:57.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RatesService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\appsettings.Development.json",
+              "RelativeToolTip": "RatesService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T04:08:34.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\appsettings.json",
+              "RelativeDocumentMoniker": "RatesService\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\appsettings.json",
+              "RelativeToolTip": "RatesService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T01:30:02.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Program.cs",
+              "RelativeDocumentMoniker": "RatesService\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Program.cs",
+              "RelativeToolTip": "RatesService\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:29:41.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RatesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Data\\RatesDbContext.cs",
+              "RelativeDocumentMoniker": "RatesService\\Data\\RatesDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\RatesService\\Data\\RatesDbContext.cs",
+              "RelativeToolTip": "RatesService\\Data\\RatesDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:25:28.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Program.cs",
+              "RelativeDocumentMoniker": "PositionsService\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Program.cs",
+              "RelativeToolTip": "PositionsService\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:57:58.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PositionsService.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\PositionsService.csproj",
+              "RelativeDocumentMoniker": "PositionsService\\PositionsService.csproj",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\PositionsService.csproj",
+              "RelativeToolTip": "PositionsService\\PositionsService.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T04:46:21.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PositionsService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\appsettings.Development.json",
+              "RelativeToolTip": "PositionsService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T04:46:19.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\appsettings.json",
+              "RelativeDocumentMoniker": "PositionsService\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\appsettings.json",
+              "RelativeToolTip": "PositionsService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T04:46:16.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddNewPosistionEvent.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Contracts\\AddNewPosistionEvent.cs",
+              "RelativeDocumentMoniker": "PositionsService\\Contracts\\AddNewPosistionEvent.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Contracts\\AddNewPosistionEvent.cs",
+              "RelativeToolTip": "PositionsService\\Contracts\\AddNewPosistionEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:39:47.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddNewPositionConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Consumers\\AddNewPositionConsumer.cs",
+              "RelativeDocumentMoniker": "PositionsService\\Consumers\\AddNewPositionConsumer.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Consumers\\AddNewPositionConsumer.cs",
+              "RelativeToolTip": "PositionsService\\Consumers\\AddNewPositionConsumer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:39:17.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReCalculatedPositionEvents.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Contracts\\ReCalculatedPositionEvents.cs",
+              "RelativeDocumentMoniker": "PositionsService\\Contracts\\ReCalculatedPositionEvents.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Contracts\\ReCalculatedPositionEvents.cs",
+              "RelativeToolTip": "PositionsService\\Contracts\\ReCalculatedPositionEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:41:12.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Domain\\Position.cs",
+              "RelativeDocumentMoniker": "PositionsService\\Domain\\Position.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Domain\\Position.cs",
+              "RelativeToolTip": "PositionsService\\Domain\\Position.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:43:14.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PositionsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Persistence\\PositionsDbContext.cs",
+              "RelativeDocumentMoniker": "PositionsService\\Persistence\\PositionsDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Persistence\\PositionsDbContext.cs",
+              "RelativeToolTip": "PositionsService\\Persistence\\PositionsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:42:00.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RateChangedEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Consumers\\RateChangedEventConsumer.cs",
+              "RelativeDocumentMoniker": "PositionsService\\Consumers\\RateChangedEventConsumer.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\PositionsService\\Consumers\\RateChangedEventConsumer.cs",
+              "RelativeToolTip": "PositionsService\\Consumers\\RateChangedEventConsumer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:56:37.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RateChangedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\Contracts\\RateChangedEvent.cs",
+              "RelativeDocumentMoniker": "Contracts\\RateChangedEvent.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\Contracts\\RateChangedEvent.cs",
+              "RelativeToolTip": "Contracts\\RateChangedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:03:21.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\wakett\\Contracts\\Class1.cs",
+              "RelativeDocumentMoniker": "Contracts\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\wakett\\Contracts\\Class1.cs",
+              "RelativeToolTip": "Contracts\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T04:45:15.653Z",
               "EditorCaption": ""
             }
           ]
