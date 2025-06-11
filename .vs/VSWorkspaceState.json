@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Contracts",
+    "\\Contracts\\obj\\Release",
+    "\\PositionsService",
+    "\\PositionsService\\Contracts",
+    "\\PositionsService\\Domain",
+    "\\PositionsService\\Persistence",
+    "\\RatesService",
+    "\\RatesService\\Properties",
+    "\\RatesService\\Services"
+  ],
+  "SelectedNode": "\\RatesService\\Data",
+  "PreviewInSolutionExplorer": false
+}
